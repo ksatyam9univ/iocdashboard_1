@@ -44,6 +44,18 @@ body{
     height: 80px;
     width: 80px;
 }
+.square90{
+    height: 90px;
+    width: 90px;
+}
+.square100{
+    height: 100px;
+    width: 100px;
+}
+.square150{
+    height: 150px;
+    width: 150px;
+}
 .image{
     object-fit: cover;
     width: 100%;
